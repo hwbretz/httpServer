@@ -1,0 +1,26 @@
+{
+  "version": "1",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1768866242920,
+      "tag": "0000_swift_mystique",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1769034744105,
+      "tag": "0001_strong_iron_lad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1769466550668,
+      "tag": "0002_handy_mulholland_black",
+      "breakpoints": true
+    }
+  ]
+}

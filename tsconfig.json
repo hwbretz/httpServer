@@ -1,6 +1,6 @@
 {
 	"compilerOptions": {
-		"baseUrl": ".",
+		//"baseUrl": ".",
 		"target": "esnext",
 		"module": "esnext",
 		"rootDir": "./src",
@@ -10,6 +10,6 @@
 		"esModuleInterop": true,
 		"skipLibCheck": true
 	},
-	"include": ["./src/**/*.ts"],
+	"include": ["./src/**/*.ts", "src/MigrationConfig.ts"],
 	"exclude": ["node_modules"]
 }
